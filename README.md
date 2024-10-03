@@ -1,9 +1,11 @@
 # AlgoAnalysisHW
-Different sorting algorithms and its runtime analyzes
+Different sorting algorithms and its runtime analyses
 
 
 ![image](https://user-images.githubusercontent.com/43817874/162685193-2b9661ed-ff21-4384-964c-8af10846801c.png)
+
 ** Times in nanoseconds
+
 I implemented the algorithms on geeksforgeeks
 Heapsort: https://www.geeksforgeeks.org/heap-sort/
 Introsort: https://www.geeksforgeeks.org/introsort-or-introspective-sort/
